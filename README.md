@@ -5,10 +5,9 @@
 - 🌱 I’m currently learning Machine Learning, AI, Computer Vision.
 - 📫 How to reach me: ryuhyojung@naver.com 
 
-<a href="https://iambeginnerdeveloper.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
-<a href="https://iambeginnerdeveloper.notion.site/AI-61789aea6a0349d6b808e3b43171e4d5" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="https://github.com/YOOHYOJEONG" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
-<a href="https://www.instagram.com/hyo_ya__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.notion.so/Jung-ji-young-a01c09d7f8fb4a2483a0b9e95d606959" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://github.com/waitzero" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
+<a href="https://www.instagram.com/magic2eye3/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ✏ Stack   
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
