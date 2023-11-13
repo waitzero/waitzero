@@ -3,7 +3,7 @@
   I wanna be a developer.
 
 - 🌱 I’m currently learning Machine Learning, AI, Computer Vision.
-- 📫 How to reach me: ryuhyojung@naver.com 
+- 📫 How to reach me: magic2eye3@gmail.com
 
 <a href="https://www.notion.so/Jung-ji-young-a01c09d7f8fb4a2483a0b9e95d606959" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://github.com/waitzero" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
@@ -21,6 +21,5 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=waitzero&show_icons=true)  
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2waitzeroG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/waitzero)     
+  
 </div>
