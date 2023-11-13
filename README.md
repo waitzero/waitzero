@@ -1,6 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&text=Jungjiyoung)
 <div align="center">
+  
+<br/>
+<br/>
+<br/>
+
   I wanna be a developer.
+
+<br/>
+<br/>
+<br/>
+
 
 🌱 I’m currently learning React, java-scripts
 📫 How to reach me: magic2eye3@gmail.com
