@@ -14,7 +14,8 @@
 
 <br/>
 <br/>
-🔥Me🔥
+🔥Me🔥<br>
+<br>
 <a href="https://www.notion.so/Jung-ji-young-a01c09d7f8fb4a2483a0b9e95d606959" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://github.com/waitzero" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 <a href="https://www.instagram.com/magic2eye3/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
