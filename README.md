@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-#🔥Me🔥
+🔥Me🔥
 
 🌱 I’m currently learning React, java-scripts<br>
 📫 How to reach me: magic2eye3@gmail.com
